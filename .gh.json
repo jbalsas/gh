@@ -23,9 +23,7 @@
             },
             "new": {
                 "before": [],
-                "after": [
-                    "gh is --browser --user {{options.user}} --repo {{options.repo}} --number {{options.number}}"
-                ]
+                "after": []
             },
             "open": {
                 "before": [],
@@ -113,5 +111,5 @@
 
     "replace": {},
 
-    "signature": " <br><br>:octocat: *Sent from [GH](http://nodegh.io).*"
+    "signature": ""
 }
